@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Benchmarking web page load time with cURL"
-categories: bash performance
+tags: bash performance
 ---
 
 A couple of days ago, I needed to measure the performance of a category page in a Magento shop, with different combinations of sorting and filtering parameters. I needed the test to be objective and reproducible, in order to check for performance before and after some changes.
