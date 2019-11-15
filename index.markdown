@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+# Welcome
+Welcome to my personal blog containing links, tips and updates on my current projects. Check out my [articles on Medium](./articles) as well!
