@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I am a backend developer at [Lemundo](https://www.lemundo.de/), Hamburg, with a particular interest in testing strategies, automation and security.
+I am a Rails backend developer at [sum.cumo](https://www.sumcumo.com/), Hamburg, with a particular interest in testing strategies, automation and security.
