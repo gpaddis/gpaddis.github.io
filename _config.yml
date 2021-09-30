@@ -22,7 +22,7 @@ title: 'gpaddis : blog'
 description: >- # this means to ignore newlines until "baseurl:"
   My personal blog containing links, tips and updates on my current projects.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gpaddis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gp4ddis
 github_username:  gpaddis
 
