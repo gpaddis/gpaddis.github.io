@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Welcome to my personal blog containing links, tips and updates on my current projects. Check out my [articles on Medium](./articles) as well!
+Welcome to my github blog containing links, tips and updates on my current projects.
+
+Check out my personal website: [https://www.gpaddis.com/](https://www.gpaddis.com/).

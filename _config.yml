@@ -20,11 +20,13 @@
 
 title: 'gpaddis : blog'
 description: >- # this means to ignore newlines until "baseurl:"
-  My personal blog containing links, tips and updates on my current projects.
+  My github blog containing links, tips and updates on my current projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gpaddis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: gp4ddis
+# Available options: https://github.com/jekyll/minima?tab=readme-ov-file#social-networks
 github_username:  gpaddis
+flickr_username:  punkjazz
+linkedin_username: gpaddis
 
 # Build settings
 theme: minima

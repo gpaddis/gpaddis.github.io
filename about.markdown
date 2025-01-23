@@ -4,5 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a backend developer at [sum.cumo](https://www.sumcumo.com/), Hamburg, with
-a particular interest in testing strategies, automation and security.
+I am a senior software developer at [Sapiens Germany](https://dach.sapiens.com/), Hamburg, with
+a particular interest in testing strategies, automation and cybersecurity.
+
+Check out my personal website: [https://www.gpaddis.com/](https://www.gpaddis.com/).
